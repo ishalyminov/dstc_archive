@@ -1,6 +1,6 @@
-# Dialog State Tracking Challenge 1 - Data Mirror 
+# Dialog State Tracking Challenge 1 Dataset 
 
-An unofficial mirror for the DSTC1 dataset in case it's not available from the main site.
+An unofficial mirror of the dataset for higher availability.
 
 ## Training data
 - [train1a](https://dl.dropboxusercontent.com/s/et1zpvlnxioznwt/train1a.zip)
